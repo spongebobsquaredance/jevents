@@ -1,0 +1,1 @@
+A first attempt at a site redesign. Practiced setting the text to a baseline to establish vertical rhythm.
