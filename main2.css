@@ -49,14 +49,13 @@ table {
 
 /* Main Page Styles */
 body {
-	/*font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif; */
 	font-family: "Gill Sans";
 	font-weight: 350;
 	color: #111111;
 	line-height: 1.5;
 	text-align: center;
-	background: url('download2.png');
-	/*background: url('agsquare.png');*/
+	/*background: url('download2.png');*/
+	background: url('agsquare.png');
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
@@ -84,7 +83,6 @@ a {
 	text-decoration: none;
 	color: #111111;
 }
-
 /* Typographic Scale */
 h1 {
 	font-size: 4.5em; /* 72px */
@@ -114,7 +112,6 @@ h6 {
 	font-size: 1.125em; /* 18px */
 	line-height: 1.8333; /* 33 ÷ 18 = 1.8333 */
 }
-
 /* Header Styles */
 header {
 	background: #272425;
@@ -158,19 +155,7 @@ header h3 {
 }
 #contact article h6 {
 	margin-bottom: 0;
-}
-/*.jancontact h6,
-.davecontact h6 {
-	margin-bottom: 19px;
-}
-.pamcontact h6 {
-	margin-bottom: 0;
-}
-.generalcontact h6 {
-	margin-bottom: 0;
-} */
-	
-
+}	
 /* Footer Styles */
 footer {
 	clear: left;
@@ -180,7 +165,6 @@ footer {
 	padding-bottom: 1px; 
 	padding-top: 32px;
 }
-/* Experiment */
 
 
 
